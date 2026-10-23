@@ -126,15 +126,15 @@ Vérifie quand même dans ton onglet Réseau : si tu vois une ligne en plus, par
 
 1. Quelle est la différence visible entre GET et POST ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ En GET, les données apparaissent dans l’URL. En POST, elles n’apparaissent pas dans l’URL
 
 2. Pour un formulaire de **recherche**, quelle méthode choisiriez-vous ? Et pour un formulaire de **connexion avec mot de passe** ? Pourquoi ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ GET pour une recherche, parce qu’on peut copier ou partager l’URL. POST pour une connexion, pour que le mot de passe ne s’affiche pas dans l’URL ni dans l’historique.
 
 3. Les données envoyées en POST sont-elles vraiment « secrètes » ? (Pensez à ce que vous avez vu dans l'onglet Réseau.)
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Non, on les voit quand même dans l’onglet Réseau. Elles sont juste cachées de l’URL, pas protégées.
 
 ---
 
@@ -142,15 +142,15 @@ Vérifie quand même dans ton onglet Réseau : si tu vois une ligne en plus, par
 
 1. Quelle est la différence entre une erreur `4xx` et une erreur `5xx` ? Qui est « fautif » dans chaque cas ?
 
-   > _Ma réponse :_ En GET, les données apparaissent dans l’URL. En POST, elles n’apparaissent pas dans l’URL.
+   > _Ma réponse :
 
 2. Comment fonctionne une redirection ? Qui fait la deuxième requête : le serveur ou le navigateur ?
 
-   > _Ma réponse :_ Le serveur répond avec un code 302 et une nouvelle adresse. C’est ensuite le navigateur qui fait tout seul la deuxième requête vers cette nouvelle adresse.
+   > _Ma réponse :_ 
 
 3. Donnez un exemple de situation où un vrai site utilise une redirection.
 
-   > _Ma réponse :_ Quand on se connecte sur un site, après avoir tapé son mot de passe, on est redirigé vers son compte ou la page d’accueil.
+   > _Ma réponse :_ 
 
 ---
 
