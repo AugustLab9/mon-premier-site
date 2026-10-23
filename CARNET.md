@@ -158,19 +158,19 @@ Vérifie quand même dans ton onglet Réseau : si tu vois une ligne en plus, par
 
 1. Citez trois informations que le serveur connaît sur vous, sans que vous ayez rien rempli.
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Mon adresse IP, mon navigateur et mon système d’exploitation, et la langue de mon navigateur.
 
 2. À quoi peut servir l'en-tête `Accept-Language` pour un site comme Wikipédia ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ À afficher automatiquement le site dans la langue du visiteur, par exemple en français.
 
 3. Dans l'Access log, retrouvez une requête qui a reçu un code `404`. Quelle page était demandée ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ La page /favicon.ico, l’icône de l’onglet que mon site n’a pas. On voit aussi /nimportequoi, ma page de test.
 
 4. Après cet exercice, que pensez-vous de la notion de « navigation anonyme » ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ La navigation privée n’est pas vraiment anonyme : elle efface juste l’historique sur mon ordinateur, mais le serveur voit quand même mon adresse IP, mon navigateur et les pages que je visite.
 
 ---
 
