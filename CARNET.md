@@ -48,7 +48,7 @@
 
 2. À quoi servent les balises `<h1>`, `<p>`, `<ul>` et `<li>` ?
 
-   > _Ma réponse :_ <h1> = un titre, <p> = un paragraphe, <ul> = une liste, <li> = un élément de la liste.
+   > _Ma réponse :_ "<h1>" = un titre, "<p>" = un paragraphe, "<ul>" = une liste, "<li>" = un élément de la liste.
 
 3. Pourquoi l'image s'affiche-t-elle alors qu'elle n'est pas sur votre serveur ?
 
