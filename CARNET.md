@@ -142,15 +142,15 @@ Vérifie quand même dans ton onglet Réseau : si tu vois une ligne en plus, par
 
 1. Quelle est la différence entre une erreur `4xx` et une erreur `5xx` ? Qui est « fautif » dans chaque cas ?
 
-   > _Ma réponse :
+   > _Ma réponse :4xx est une erreur du client : c’est le visiteur qui a fait une mauvaise demande. 5xx est une erreur du serveur : c’est le site qui a un bug.
 
 2. Comment fonctionne une redirection ? Qui fait la deuxième requête : le serveur ou le navigateur ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Le serveur répond avec un code 302 et une nouvelle adresse. C’est le navigateur qui fait tout seul la deuxième requête vers cette adresse.
 
 3. Donnez un exemple de situation où un vrai site utilise une redirection.
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Après une connexion, le site redirige vers la page d’accueil ou vers le compte de l’utilisateur.
 
 ---
 
