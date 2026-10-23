@@ -142,15 +142,15 @@ Vérifie quand même dans ton onglet Réseau : si tu vois une ligne en plus, par
 
 1. Quelle est la différence entre une erreur `4xx` et une erreur `5xx` ? Qui est « fautif » dans chaque cas ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ En GET, les données apparaissent dans l’URL. En POST, elles n’apparaissent pas dans l’URL.
 
 2. Comment fonctionne une redirection ? Qui fait la deuxième requête : le serveur ou le navigateur ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Le serveur répond avec un code 302 et une nouvelle adresse. C’est ensuite le navigateur qui fait tout seul la deuxième requête vers cette nouvelle adresse.
 
 3. Donnez un exemple de situation où un vrai site utilise une redirection.
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Quand on se connecte sur un site, après avoir tapé son mot de passe, on est redirigé vers son compte ou la page d’accueil.
 
 ---
 
